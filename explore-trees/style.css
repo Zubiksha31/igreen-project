@@ -1,0 +1,457 @@
+body{
+    background-color:black;
+    display: flex;
+    font: optional;
+    overflow-x: hidden;
+}
+.head.leaf{
+    margin-top: 30px;
+    margin-left: 38px;
+}
+.explore-tree{
+    color:white;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: -80px;
+}
+.bamboo-tree{
+    position: relative;
+    width: 350px;
+    height: 220px;
+    margin-top:250px;
+    margin-left: -170px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.name{
+    color:white;
+    text-align: left;
+    margin-top: 490px;
+    margin-left: -345px;
+    font-size: 20px;
+}
+.bamboo-discription{
+    color:white;
+    margin-top: 546px;
+    width: 310px;
+    margin-left: -110px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark{
+    width: 50px;
+    height: 50px;
+    margin-top: 655px;
+    margin-left: -30px;
+}
+.indian-beech-tree{
+    position: relative;
+    width: 350px;
+    height: 220px;
+    margin-top:250px;
+    margin-left: 55px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.beechname{
+    color:white;
+    text-align: left;
+    margin-top: 490px;
+    margin-left: -345px;
+    font-size: 20px;
+}
+.beech-description{
+    color:white;
+    margin-top: 546px;
+    width: 310px;
+    margin-left: -158px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-two{
+    width: 50px;
+    height: 50px;
+    margin-top: 655px;
+    margin-left: -30px;
+}
+.yellow-butterfly-palm-tree{
+    position: relative;
+    width: 350px;
+    height: 220px;
+    margin-top:250px;
+    margin-left: 55px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.yellow-name{
+    color:white;
+    text-align: left;
+    margin-top: 490px;
+    margin-left: -345px;
+    font-size: 20px;
+}
+.yellowTree-description{
+    color:white;
+    margin-top: 546px;
+    width: 310px;
+    margin-left: -190px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-three{
+    width: 50px;
+    height: 50px;
+    margin-top: 655px;
+    margin-left: -30px;
+}
+.coconut-tree{
+    position:absolute;
+    width: 350px;
+    height: 220px;
+    margin-top:750px;
+    margin-left: -1105px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.coconut-name{
+    color:white;
+    text-align: left;
+    margin-top: 1000px;
+    margin-left: -1095px;
+    font-size: 20px;
+}
+.coconut-description{
+    color:white;
+    margin-top: 30px;
+    width: 310px;
+    margin-left: -1095px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-four{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: -19px;
+    margin-left: -820px;
+}
+.cuban-royal-palm-tree{
+    position:absolute;
+    width: 350px;
+    height: 220px;
+    margin-top:-446px;
+    margin-left: -715px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.cuban-name{
+    color:white;
+    text-align: left;
+    margin-top: -196px;
+    margin-left: -705px;
+    font-size: 20px;
+}
+.cuban-description{
+    color:white;
+    margin-top: 30px;
+    width: 310px;
+    margin-left: -705px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-five{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: -430px;
+}
+.guava-tree{
+    position:absolute;
+    width: 350px;
+    height: 220px;
+    margin-top:-445px;
+    margin-left: -320px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.guave-name{
+    color:white;
+    text-align: left;
+    margin-top: -195px;
+    margin-left: -312px;
+    font-size: 20px;
+}
+.guave-description{
+    color:white;
+    margin-top: 30px;
+    width: 310px;
+    margin-left: -310px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-six{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: -20px;
+    margin-left: -30px;
+}
+.java-plum-tree{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1250px;
+    margin-left: -336px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.java-name{
+    color:white;
+    text-align: left;
+    margin-top: 1500px;
+    margin-left: -340px;
+    font-size: 20px;
+}
+.java-description{
+    color:white;
+    margin-top: 1550px;
+    width: 320px;
+    margin-left: -130px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-seven{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 1660px;
+    margin-left: -40px;
+}
+.neem-tree{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1250px;
+    margin-left: -740px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.neem-name{
+    color:white;
+    text-align: left;
+    margin-top: 1503px;
+    margin-left: -727px;
+    font-size: 20px;
+}
+.neam-description{
+    color:white;
+    margin-top: 1550px;
+    width: 320px;
+    margin-left: -96px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-eight{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 1660px;
+    margin-left: -40px;
+}
+.peepal-tree{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1250px;
+    margin-left: -740px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.peepal-name{
+    color:white;
+    text-align: left;
+    margin-top: 1503px;
+    margin-left: -727px;
+    font-size: 20px;
+}
+.peepal-description{
+    color:white;
+    margin-top: 1550px;
+    width: 320px;
+    margin-left: -96px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-nine{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 1660px;
+    margin-left: -40px;
+}
+.phoenix-tree{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1750px;
+    margin-left: -345px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.phoenix-name{
+    color:white;
+    text-align: left;
+    margin-top: 2005px;
+    margin-left: -340px;
+    font-size: 20px;
+}
+.phoenix-description{
+    color:white;
+    margin-top: 2050px;
+    width: 320px;
+    margin-left: -110px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-ten{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 2152px;
+    margin-left: -40px;
+}
+.travelers-palm{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1750px;
+    margin-left: 55px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.travelers-name{
+    color:white;
+    text-align: left;
+    margin-top: 2005px;
+    margin-left: -340px;
+    font-size: 20px;
+}
+.travelers-description{
+    color:white;
+    margin-top: 2050px;
+    width: 320px;
+    margin-left: -178px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-eleven{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 2152px;
+    margin-left: -40px;
+}
+.Thailand-shower{
+    position:relative;
+    width: 350px;
+    height: 220px;
+    margin-top:1750px;
+    margin-left: 55px;
+    border-radius: 20px;
+    padding: 0px;
+    border: 1px solid #02093c;
+    box-shadow: #02093c;
+    border-radius: 20px;
+    mask-composite:initial;
+    padding-bottom: 240px;
+}
+.thailand-name{
+    color:white;
+    text-align: left;
+    margin-top: 2005px;
+    margin-left: -340px;
+    font-size: 20px;
+}
+.thailand-description{
+    color:white;
+    margin-top: 2050px;
+    width: 320px;
+    margin-left: -147px;
+    text-align: left;
+    font-weight: lighter;
+    color: rgba(128, 128, 128, 0.626);
+}
+.aeromark-twelve{
+    width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 2152px;
+    margin-left: -40px;
+}
